@@ -30,7 +30,7 @@
 
 ### 🧪 Laravel: The Web Alchemist
 
-Laravel bukan sekadar baris kode; ia adalah **alkemis elegan** di dunia pengembangan web—seperti :contentReference[oaicite:0]{index=0} yang mampu mengubah kompleksitas menjadi sesuatu yang indah dan terstruktur.
+Laravel bukan sekadar baris kode. Ia adalah **alkemis elegan** di dunia pengembangan web seperti **Albedo** yang mampu mengubah kompleksitas menjadi sesuatu yang indah dan terstruktur.
 
 ---
 
@@ -38,7 +38,7 @@ Laravel bukan sekadar baris kode; ia adalah **alkemis elegan** di dunia pengemba
   Seperti Albedo yang memahami prinsip dasar alkimia, Laravel dibangun dengan arsitektur *MVC* yang jelas, membuat alur kerja terasa logis, rapi, dan mudah dikembangkan.
 
 * **🎨 Kreasi Elegan:**  
-  Dengan engine *Blade*, Laravel memungkinkan kita meracik tampilan UI secara dinamis dengan sintaks yang bersih—hasilnya ringan, efisien, dan enak dipandang.
+  Dengan engine *Blade*, Laravel memungkinkan kita meracik tampilan UI secara dinamis dengan sintaks yang bersih serta hasilnya ringan, efisien, dan enak dipandang.
 
 * **🧪 Fleksibel & Eksperimental:**  
   Layaknya eksperimen alkimia, Laravel memberi kebebasan untuk menambahkan berbagai *package* melalui Composer, memungkinkan developer menciptakan aplikasi dari yang sederhana hingga kompleks.
